@@ -9,4 +9,4 @@
 **使用 `root` 用户在终端运行以下命令即可：**
 
 ```bash
-bash <(curl -sL [https://raw.githubusercontent.com/suntai-sh/caddy-EMBY/main/caddy-emby-proxy.sh](https://raw.githubusercontent.com/suntai-sh/caddy-EMBY/main/caddy-emby-proxy.sh))
+bash <(curl -fsSL [https://raw.githubusercontent.com/suntai-sh/caddy-EMBY/main/caddy-emby-proxy.sh](https://raw.githubusercontent.com/suntai-sh/caddy-EMBY/main/caddy-emby-proxy.sh))
