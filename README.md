@@ -10,3 +10,10 @@
 
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/suntai-sh/caddy-EMBY/main/caddy-emby-proxy.sh)
+
+## 🚀 快速测速脚本
+
+**使用 `root` 用户在终端运行以下命令即可：**
+
+```bash
+bash <(curl -fsSL https://raw.githubusercontent.com/suntai-sh/caddy-EMBY/main/network_tool.sh)
